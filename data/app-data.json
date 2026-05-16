@@ -1,15 +1,5 @@
 {
-  "employees": [
-    {
-      "id": "wugbsoo5z1mp8cy4vd",
-      "name": "Shirley-Anne Olivier",
-      "idNum": "7802100233081",
-      "role": "Algemene Huiswerker",
-      "startDate": "2024-12-01",
-      "rate": "30.23",
-      "uif": ""
-    }
-  ],
+  "employees": [],
   "timesheets": {},
   "payslips": []
 }
